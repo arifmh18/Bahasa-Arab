@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="المفردات"
+        android:icon="@drawable/ic_text_format_24"
+        android:id="@+id/main_kosakata"/>
+
+    <item
+        android:title="القراءة الجهرية"
+        android:icon="@drawable/ic_surround_sound_24"
+        android:id="@+id/main_bacakeras"/>
+
+    <item
+        android:title="فهم المقروء"
+        android:icon="@drawable/ic_assignment_24"
+        android:id="@+id/main_materi"/>
+
+    <item
+        android:title="التدريب"
+        android:icon="@drawable/ic_timelapse_24"
+        android:id="@+id/main_utsUas"/>
+</menu>

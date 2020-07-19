@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bahasa Arab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="kosakata">المفردات</string>
+    <string name="bacakeras">القراءة الجهرية</string>
+    <string name="materi">فهم المقروء</string>
+    <string name="ujian">التدريب</string>
+
+</resources>
